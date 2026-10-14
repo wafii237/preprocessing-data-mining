@@ -1,6 +1,8 @@
 # Preprocessing Data - Industri Olahan Makanan Jawa Tengah 2025
 
 Tugas mata kuliah Data Mining: preprocessing data (cleaning, transformation) menggunakan Python di Google Colab.
+## Link Google Colab
+- Notebook di Google Colab: [https://colab.research.google.com/drive/1CXDWVl89JxPKuCstszqPYhmjZF-e6f3J?usp=sharing]
 
 ## Sumber Data
 - Dataset: Data Sebaran Industri Olahan Makanan di Jawa Tengah (s.d. Agustus 2025)
